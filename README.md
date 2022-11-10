@@ -1,5 +1,8 @@
-### Hi there
-
+### Hi there 👋, Krunoslav Kasalo
+#### JAVA developer in making
 I'm Kruno from Croatia and I just enrolled for a JAVA class in hope to change my career.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkruno25)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning how to make a profile on GitHub 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kkruno25)  
