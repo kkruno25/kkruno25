@@ -4,5 +4,4 @@ I'm Kruno from Croatia and I just enrolled for a JAVA class in hope to change my
 
 - 🌱 I’m currently learning how to make a profile on GitHub 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kkruno25)  
